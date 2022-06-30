@@ -1,7 +1,3 @@
-//
-//  Created by Andrew Tanchuk on 26.11.2021.
-//
-
 import SwiftUI
 
 /// Adds onTouch event to ScrollView.
